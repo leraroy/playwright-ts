@@ -1,0 +1,7 @@
+Get text Error: 
+Login can't be blank
+First name can't be blank
+Last name can't be blank
+Email can't be blank
+Password is too short (minimum is 4 characters)
+
