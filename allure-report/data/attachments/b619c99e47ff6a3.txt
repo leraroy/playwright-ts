@@ -1,1 +1,0 @@
-[ [32m'Login '[39m, [32m'Password '[39m, [32m'First name '[39m, [32m'Last name '[39m, [32m'Email '[39m ]
