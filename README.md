@@ -5,7 +5,7 @@ This repo contains tests written in playwright for "telnyx.com" website.
 
 ### Install software and check out the project
 
-- Download and install Node.JS ( at least 10.X )
+- Download and install Node.JS
 - Install Visual Studio Code
 - Clone and checkout the github project
 - Go to the terminal and execute "npm install" command
