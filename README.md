@@ -1,5 +1,5 @@
 # playwright-ts
-This repo contains tests written in playwright for "telnyx.com" website.
+This repo contains tests written in [Playwright](https://playwright.dev/docs/intro) for "telnyx.com" website.
 
 ## Setup
 
