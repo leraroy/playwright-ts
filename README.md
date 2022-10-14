@@ -15,4 +15,3 @@ Go to the terminal and run the "npm run test" command for run test
    
 #### To see reports without installation
 You can see [Allure Report](https://leraroy.github.io/playwright-ts/) on GitHub Pages
-
